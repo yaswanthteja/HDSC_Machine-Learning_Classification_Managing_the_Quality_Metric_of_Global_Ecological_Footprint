@@ -10,6 +10,8 @@ In this course, we will use the data to classify and predict the quality metrics
 
 # Project
 
+
+- [Project](https://github.com/yaswanthteja/HDSC_Machine-Learning_Classification_Managing_the_Quality_Metric_of_Global_Ecological_Footprint/blob/main/StabilityPredicting.ipynb)
 Instructions for Tag-Along Project
 Stability of the Grid System
 
