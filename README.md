@@ -1,5 +1,5 @@
 # HDSC_Machine-Learning-Classification --
-# Managing-the-Quality-Metric-of-Global-Ecological-Footprint
+# Managing the Quality Metric of Global Ecological Footprint
 
 
 The dataset used in this course was obtained from the National Footprint and Biocapacity Accounts. It provides Ecological Footprint per capita data for years 1961-2016 in global hectares (gha). The National Footprint and Biocapacity Accounts (NFAs) measure the ecological resource use and resource capacity of nations from 1961 to 2016. The calculations in the National Footprint and Biocapacity Accounts are primarily based on United Nations data sets.
